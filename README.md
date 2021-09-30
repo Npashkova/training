@@ -7,7 +7,7 @@ Test file of readme
 Participant Vitaliy Maliarenko
 #Training to work with git
 IlyaTroshchynskyi
-
+hi
 Over hill, over dale,
 Thorough bush, thorough brier,
 Over park, over pale,
@@ -23,3 +23,5 @@ In those freckles live their savours;
 I must go seek some dewdrops here,
 And hang a pearl in every cowslip's ear. 
 A Fairy Song by William Shakespeare
+hi_yurii
+
