@@ -1,13 +1,11 @@
 
 # Git training
-This description by Kozenko Maxim :)))
 My name is Dasha, hi!
 IlyaTroshchynskyi
 Ну наконец то)! Готово!
 Stadnik was here :D
 Test file of readme
 Participant Vitaliy Maliarenko
-Maxim Kozenko
 #Training to work with git
 
 IlyaTroshchynskyi
